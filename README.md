@@ -4,4 +4,4 @@
 - 🌱 Learning: Data Structures
 - 💬 Languages: Python, Java, JavaScript
 - ⚡ Goals: Using AI & ML to create wearable healthcare tech
-- Ask to See My School Projects!
+- Ask to See My School Projects! (They are hidden to prevent plagiarism.)
